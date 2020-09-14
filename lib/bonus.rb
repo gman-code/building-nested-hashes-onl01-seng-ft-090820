@@ -3,7 +3,7 @@ def
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
-      :hero => {name: "Romeo", age: "15", status: "dead"},
+      :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
          {name: "Benvolio", age: "17", attitude: "worried"},
          {name: "Steven", age: "30", attitude: "confused"}
@@ -25,5 +25,5 @@ def
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
-  epic_tragedy
+  epic_tragedy=
 end
