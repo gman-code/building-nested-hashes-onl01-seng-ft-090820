@@ -31,4 +31,3 @@ def
   epic_tragedy[:capulet][:heroine][:status] = "deadl"
   
 end
-end
